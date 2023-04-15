@@ -1,0 +1,8 @@
+/mvnw
+/mvnw.cmd
+/pom.xml
+/src/main/resources/com/example/damo/hello-view.fxml
+/src/main/java/module-info.java
+.idea
+.mvn
+.gitignore
